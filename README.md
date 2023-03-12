@@ -1,4 +1,5 @@
 # Chuck Norris jokes app
 
 [chucknorris.io]([url](https://api.chucknorris.io)) is a free JSON API for hand curated Chuck Norris facts. [Read more]([url](https://api.chucknorris.io/#!))
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 13 56 38](https://user-images.githubusercontent.com/77191581/224540135-0eb6cc48-1a4a-4ba1-8d7e-bfe5cf71a791.png)
+
+![Запись экрана 2023-03-12 в 14 12 25](https://user-images.githubusercontent.com/77191581/224540942-8c07fbcb-7840-4457-b768-363a2530c581.gif)
