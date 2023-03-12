@@ -1,19 +1,4 @@
-# flutter_application_1
+# Chuck Norris jokes app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-chucknorris.io is a free JSON API for hand curated Chuck Norris facts. Read more
+[chucknorris.io]([url](https://api.chucknorris.io)) is a free JSON API for hand curated Chuck Norris facts. [Read more]([url](https://api.chucknorris.io/#!))
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 13 56 38](https://user-images.githubusercontent.com/77191581/224540135-0eb6cc48-1a4a-4ba1-8d7e-bfe5cf71a791.png)
